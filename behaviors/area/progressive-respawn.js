@@ -1,7 +1,7 @@
 'use strict';
 
 const { Logger } = require('ranvier');
-const { Random } = require('../../../hylands-combat/lib/Combat');
+const { Random } = require('rando-js');
 
 /**
  * Behavior for having a constant respawn tick happening every [interval]
